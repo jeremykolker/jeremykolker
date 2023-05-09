@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby On Rails, Java**
 
-- 👨‍💻 All of my projects are available at [https://jeremykolker.netlify.app/](https://jeremykolker.netlify.app/)
+- 👨‍💻 My portfolio is available to view at [https://jeremykolker.netlify.app/](https://jeremykolker.netlify.app/)
 
 - 💬 Ask me about **React, Python, JS**
 
