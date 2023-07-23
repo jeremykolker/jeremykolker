@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremykolker" alt="jeremykolker" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby On Rails, Java**
+- 🌱 I’m currently learning **Ruby On Rails & Java**
 
 - 👨‍💻 Check out my portfiolio website at [https://jeremykolker.netlify.app/](https://jeremykolker.netlify.app/)
 
