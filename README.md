@@ -5,9 +5,9 @@
 
 - 👨‍💻 Check out my portfiolio website at [https://jeremykolker.netlify.app/](https://jeremykolker.netlify.app/)
 
-- 🌱 Here's a few of my othere sites:
-  -[https://agile-meadow-78400.herokuapp.com/](https://agile-meadow-78400.herokuapp.com/)
-  -[https://snazzy-axolotl-f750c1.netlify.app/](https://snazzy-axolotl-f750c1.netlify.app/)
+- 🌱 Here's a few of my other sites:
+- [https://agile-meadow-78400.herokuapp.com/](https://agile-meadow-78400.herokuapp.com/)
+- [https://snazzy-axolotl-f750c1.netlify.app/](https://snazzy-axolotl-f750c1.netlify.app/)
 
 - 💬 Ask me about **PERN/MERN Stack**
 
