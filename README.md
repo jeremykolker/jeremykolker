@@ -3,14 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremykolker&label=Profile%20views&color=0e75b6&style=flat" alt="jeremykolker" /> </p>
 
-
-- 🌱 I’m currently learning **Ruby On Rails & Java**
-
 - 👨‍💻 Check out my portfiolio website at [https://jeremykolker.netlify.app/](https://jeremykolker.netlify.app/)
 
-- Here's a few of my othere sites:
-  [https://agile-meadow-78400.herokuapp.com/](https://agile-meadow-78400.herokuapp.com/)
-  [https://snazzy-axolotl-f750c1.netlify.app/](https://snazzy-axolotl-f750c1.netlify.app/)
+- 🌱 Here's a few of my othere sites:
+  -[https://agile-meadow-78400.herokuapp.com/](https://agile-meadow-78400.herokuapp.com/)
+  -[https://snazzy-axolotl-f750c1.netlify.app/](https://snazzy-axolotl-f750c1.netlify.app/)
 
 - 💬 Ask me about **PERN/MERN Stack**
 
