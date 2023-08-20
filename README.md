@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Kolker</h1>
-<h3 align="center">A passionate software developer and multi-disciplinary creator from Brooklyn, NY</h3>
+<h3 align="center">A software engineer, web developer, and multi-disciplinary creator from Brooklyn, NY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremykolker&label=Profile%20views&color=0e75b6&style=flat" alt="jeremykolker" /> </p>
 
