@@ -7,6 +7,8 @@
 
 - 🌱 Here's a few of my other sites:
 - [https://djmarialinahair.com/](https://djmarialinahair.com/)
+- [https://VMSNYC.com/](https://VMSNYC.com/)
+- [https://traditionoalline.netlify.com/](https://traditionalline.netlify.com/)
 - [https://agile-meadow-78400.herokuapp.com/](https://agile-meadow-78400.herokuapp.com/)
 - [https://snazzy-axolotl-f750c1.netlify.app/](https://snazzy-axolotl-f750c1.netlify.app/)
 - [jade-cajeta-c15f65.netlify.app](jade-cajeta-c15f65.netlify.app)
